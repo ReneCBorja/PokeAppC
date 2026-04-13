@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Info.plist
+   PokeApp
+
+   Created by Rene Borja on 12/4/26.
+   Copyright (c) 2026 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<key>UIAppFonts</key>
+<array>
+    <string>Aron-Black.ttf</string>
+    <string>Aron-Bold.ttf</string>
+    <string>Aron-Regular.ttf</string>
+</array>
+<plist version="1.0">
+<dict/>
+</plist>
